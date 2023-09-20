@@ -1,0 +1,24 @@
+# Kapitel 1
+## A1) Begründen Sie mit Ihren eigenen Worten warum die Merkmale Qualität, Quantität, Zeit und Kosten miteinander konkurrieren. Geben Sie drei Beispiele für mögliche Konfiktsituationen und erläutern Sie, wann durch Veränderung dieser Merkmale eine Havarie entstehen kann.  
+**Qualität <-> Kosten:** Je höher die Qualität eines Produkts, desto teurer wird es wahrscheinlich auch. Egal ob besseres Rohmaterial, Werkzeuge oder kompetentere Arbeiter, Qualität muss bezahlt werden.  
+**Beispiel:** Wenn Firma XYZ eine Software herstellen möchte und sich kein Mitarbeiter in Sachen Erfahrung eignet, muss Firma XYZ einen Entwickler von außen dazuziehen oder anstellen, was die Investition in die Software erhöht.  
+
+**Quantität <-> Zeit:** Angenommen die Ressourcen, die zur Verfügung stehen (außer Zeit), bleiben gleich, führt eine Erhöhung der umzusetzenden Features gleichzeitig auch dazu, dass mehr Zeit notwendig ist um diese umzusetzen.  
+**Beispiel:** Eine Gesetzesänderung hat dazu geführt, dass die Software von Firma XYZ zusätzliche steuerliche Berechnungen anstellen muss. Damit die Kunden von Firma XYZ nicht gezwungenermaßen zu einem anderen Hersteller wechseln, muss Firma XYZ jetzt mehr Zeit investieren um die neu benötigten Features zusätzlich zum restlichen Entwicklungsplan umzusetzen.  
+
+**Qualität <-> Zeit:** Angenommen die Ressourcen, die zur Verfügung stehen (außer Zeit), bleiben gleich, führt eine Erhöhung der geforderten Qualität auch dazu, dass der gleiche Funktionsumfang jetzt mehr Zeit in Anspruch nimmt, da gründlicher auf Fehler und Funktionen geachtet werden muss.  
+**Beispiel:** Die Software die von Firma XYZ hergestellt wird, wird zwar schnell "fertig", da es aber eine vielzahl von Fehlern im Programm gibt, wird der gesamte Code nochmal überarbeitet. Die Qualität der Software erhöht sich also durch Investition von mehr Zeit.  
+
+Eine Harvarie tritt auf, wenn die Grundfläche des Viereck was sich aus der Ausprägung der Merkmale ergibt schlagartig zu stark verändert.
+
+
+
+## A2a) Überlegen Sie, warum es wichtig ist, die Benutzer einer Software eng in den Entwicklungsprozess einzubeziehen.  
+Da die Lebensgrundlage eines Softwareentwicklers ist, dass andere Personen seine Software kaufen und nutzen, macht es nur Sinn, diese so gut es geht an die Bedürfnisse und Wünsche dieser Nutzer anzupassen. Valve setzt zum Beispiel immens auf ausgiebiges Playtesting um Fehler und unspaßige Segmente eines Spiels zu finden und anzupassen.  
+
+## A2b) Warum sind unvollständige Anforderungen problematisch? Was kann man dagegen unternehmen?  
+Es ist wichtig so früh wie möglich den gesamten Umfang an Anforderungen zu kennen, da diese Lücken sonst von der Interpretation der Entwickler gefüllt werden. Im schlimmsten Fall werden diese von Kunden oder Benutzern gar nicht angenommen, was zu immensen Verzögerung und erhöhten Kosten führt, da bereits "fertige" Features nun überarbeitet oder komplett neu aufgebaut werden müssen.  
+
+## A2c) Warum sind späte Änderungen an Anforderungen problematisch? Überlegen Sie Sich ein Beispiel für ein Softwareprojekt, bei dem späte Änderungen der Anforderungen das Projekt scheitern lassen könnten.  
+Späte Änderungen an Anforderung sind besonders dann problematisch wenn ein Teil eines Projekts geändert werden soll, der die Basis für andere Komponenten darstellt. So müssen dann alle Abhängigen Komponenten angepasst werden, was schnell großer Anteile eines Produkts sein können.  
+Nehmen wir als Beispiel die Preispolitik die Unity im September 2023 festgelegt hat. Aus Protest und Schutz vor einem extremen Einschnitt in zukünftige Umsätze, wechselten einige Studios deren Spiele bereits kurz vor Ende der Entwicklung standen die Unity-Engine gegen eine gänzlich andere aus. Damit muss das gesamte Spiel auf eine neue Engine angepasst werden.
