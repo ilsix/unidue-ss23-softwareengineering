@@ -7,11 +7,7 @@
 **Beispiel:** Eine Gesetzesänderung hat dazu geführt, dass die Software von Firma XYZ zusätzliche steuerliche Berechnungen anstellen muss. Damit die Kunden von Firma XYZ nicht gezwungenermaßen zu einem anderen Hersteller wechseln, muss Firma XYZ jetzt mehr Zeit investieren um die neu benötigten Features zusätzlich zum restlichen Entwicklungsplan umzusetzen.  
 
 **Qualität <-> Zeit:** Angenommen die Ressourcen, die zur Verfügung stehen (außer Zeit), bleiben gleich, führt eine Erhöhung der geforderten Qualität auch dazu, dass der gleiche Funktionsumfang jetzt mehr Zeit in Anspruch nimmt, da gründlicher auf Fehler und Funktionen geachtet werden muss.  
-**Beispiel:** Die Software die von Firma XYZ hergestellt wird, wird zwar schnell "fertig", da es aber eine vielzahl von Fehlern im Programm gibt, wird der gesamte Code nochmal überarbeitet. Die Qualität der Software erhöht sich also durch Investition von mehr Zeit.  
-
-Eine Harvarie tritt auf, wenn die Grundfläche des Viereck was sich aus der Ausprägung der Merkmale ergibt schlagartig zu stark verändert.
-
-
+**Beispiel:** Die Software die von Firma XYZ hergestellt wird, wird zwar schnell "fertig", da es aber eine vielzahl von Fehlern im Programm gibt, wird der gesamte Code nochmal überarbeitet. Die Qualität der Software erhöht sich also durch Investition von mehr Zeit. Eine Harvarie tritt auf, wenn die Grundfläche des Viereck was sich aus der Ausprägung der Merkmale ergibt schlagartig zu stark verändert.  
 
 ## 2a) Überlegen Sie, warum es wichtig ist, die Benutzer einer Software eng in den Entwicklungsprozess einzubeziehen.  
 Da die Lebensgrundlage eines Softwareentwicklers ist, dass andere Personen seine Software kaufen und nutzen, macht es nur Sinn, diese so gut es geht an die Bedürfnisse und Wünsche dieser Nutzer anzupassen. Valve setzt zum Beispiel immens auf ausgiebiges Playtesting um Fehler und unspaßige Segmente eines Spiels zu finden und anzupassen.  
