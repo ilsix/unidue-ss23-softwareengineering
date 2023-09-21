@@ -1,5 +1,5 @@
 # Kapitel 1
-## A1) Begründen Sie mit Ihren eigenen Worten warum die Merkmale Qualität, Quantität, Zeit und Kosten miteinander konkurrieren. Geben Sie drei Beispiele für mögliche Konfiktsituationen und erläutern Sie, wann durch Veränderung dieser Merkmale eine Havarie entstehen kann.  
+## 1) Begründen Sie mit Ihren eigenen Worten warum die Merkmale Qualität, Quantität, Zeit und Kosten miteinander konkurrieren. Geben Sie drei Beispiele für mögliche Konfiktsituationen und erläutern Sie, wann durch Veränderung dieser Merkmale eine Havarie entstehen kann.  
 **Qualität <-> Kosten:** Je höher die Qualität eines Produkts, desto teurer wird es wahrscheinlich auch. Egal ob besseres Rohmaterial, Werkzeuge oder kompetentere Arbeiter, Qualität muss bezahlt werden.  
 **Beispiel:** Wenn Firma XYZ eine Software herstellen möchte und sich kein Mitarbeiter in Sachen Erfahrung eignet, muss Firma XYZ einen Entwickler von außen dazuziehen oder anstellen, was die Investition in die Software erhöht.  
 
@@ -13,12 +13,12 @@ Eine Harvarie tritt auf, wenn die Grundfläche des Viereck was sich aus der Ausp
 
 
 
-## A2a) Überlegen Sie, warum es wichtig ist, die Benutzer einer Software eng in den Entwicklungsprozess einzubeziehen.  
+## 2a) Überlegen Sie, warum es wichtig ist, die Benutzer einer Software eng in den Entwicklungsprozess einzubeziehen.  
 Da die Lebensgrundlage eines Softwareentwicklers ist, dass andere Personen seine Software kaufen und nutzen, macht es nur Sinn, diese so gut es geht an die Bedürfnisse und Wünsche dieser Nutzer anzupassen. Valve setzt zum Beispiel immens auf ausgiebiges Playtesting um Fehler und unspaßige Segmente eines Spiels zu finden und anzupassen.  
 
-## A2b) Warum sind unvollständige Anforderungen problematisch? Was kann man dagegen unternehmen?  
+## 2b) Warum sind unvollständige Anforderungen problematisch? Was kann man dagegen unternehmen?  
 Es ist wichtig so früh wie möglich den gesamten Umfang an Anforderungen zu kennen, da diese Lücken sonst von der Interpretation der Entwickler gefüllt werden. Im schlimmsten Fall werden diese von Kunden oder Benutzern gar nicht angenommen, was zu immensen Verzögerung und erhöhten Kosten führt, da bereits "fertige" Features nun überarbeitet oder komplett neu aufgebaut werden müssen.  
 
-## A2c) Warum sind späte Änderungen an Anforderungen problematisch? Überlegen Sie Sich ein Beispiel für ein Softwareprojekt, bei dem späte Änderungen der Anforderungen das Projekt scheitern lassen könnten.  
+## 2c) Warum sind späte Änderungen an Anforderungen problematisch? Überlegen Sie Sich ein Beispiel für ein Softwareprojekt, bei dem späte Änderungen der Anforderungen das Projekt scheitern lassen könnten.  
 Späte Änderungen an Anforderung sind besonders dann problematisch wenn ein Teil eines Projekts geändert werden soll, der die Basis für andere Komponenten darstellt. So müssen dann alle Abhängigen Komponenten angepasst werden, was schnell großer Anteile eines Produkts sein können.  
 Nehmen wir als Beispiel die Preispolitik die Unity im September 2023 festgelegt hat. Aus Protest und Schutz vor einem extremen Einschnitt in zukünftige Umsätze, wechselten einige Studios deren Spiele bereits kurz vor Ende der Entwicklung standen die Unity-Engine gegen eine gänzlich andere aus. Damit muss das gesamte Spiel auf eine neue Engine angepasst werden.
