@@ -74,40 +74,71 @@ Prototypen sind Entwürfe mit denen Konzepte und Ideen veranschaulicht werden be
 Ich würde horizontale Protoypen im Bereich der Oberfläche anfertigen, es eignen sich sowohl analoge als auch digitale Prototypen. Ich würde wohl einen digitalen Prototypen verwenden.
 
 ## 8a) Im Hinblick auf welche Aspekte sollten Anforderungen geprüft werden? Erläutern Sie diese Aspekte und überprüfen Sie Ihre Antwort auf Aufgabe 4.  
-
+- **Inhalt**  
+Inhaltliche Prüfung der dokumentierten Anforderung  
+Sind Prüfkriterien definiert?  
+Notwendigkeit  
+- **Dokumentation**  
+Formale Prüfung der Anforderung  
+Konformität der einzelnen Anforderung  
+Konformität des Anforderungsdokuments  
+Verständlichkeit  
+Eindeutigkeit  
+- **Abgestimmtheit**  
+Abstimmung der Anforderungen mit Stellern und Stakeholdern  
+Abstimmung und Abstimmung nach Änderung  
+Konflikte aufgelöst  
 
 ## 8b) Warum ist es wichtig, Fehler in Anforderungen möglichst früh zu identifizieren?  
-
+Wenn Fehler nicht früh identifiziert werden, und die Entwicklung schon fortgeschritten ist, kann es zu Verzögerungen kommen wenn z.B. Softwaremodule nicht miteinenader kompatibel sind, weil Fehler und Konflikte in den Anforderungen nicht rechtzeitig gefunden wurden.  
 
 ## 8c) Welche Techniken zur Prüfung von Anforderungen kennen Sie? Erläutern Sie diese.  
-
+1. **Inspektion**  
+Gemeinsames, intensives, formelles Durcharbeiten der Anforderungen  
+2. **Walkthrough**  
+Gemeinsames Durchlesen und Durchspielen anhand von Testfällen und Beispielen  
+3. **Stellungnahme**  
+Unabhängige Dritte werden zur Prüfung herangezogen  
 
 ## 9a) Was versteht man unter der Verfolgbarkeit von Anforderungen?  
-
+Verfolgbarkeit beinhaltet den Ursprung einer Anforderung, Abhängigkeiten zu anderen Anforderungen und die Entwicklung von Anforderungen  
 
 ## 9b) Warum ist es wichtig und sinnvoll, Anforderungen verfolgen zu können?  
-
+Unnötig gewordene oder unmachbare Anforderungen können so identifiziert werden.  
 
 ## 10) Welche Arten von Konflikten können zwischen Stakeholdern auftreten? Erläutern Sie diese und nennen Sie jeweils zwei konkrete Beispiele.  
-
+  - **Sachkonflikt:** mangelnde Informationen, Fehlinformationen, unterschiedliche Interpretationen  
+  - **Interessenkonflikt:** subjektiv/objektiv verschiedene Ziele oder Interpretationen  
+  - **Wertekonflikt:** unterschiedliche Bewertung von Sachverhalten  
+  - **Beziehungskonflikt:** negatives zwischenmenschliches Verhalten
+  - **Strukturkonflikt:** ungleiche Macht- und Autoritätsverhältnisse  
 
 ## 11a) Welche Techniken zur Konfliktauflösung kennen Sie? Erläutern Sie diese.  
-
+- **Einigung:** Konfliktparteien eignen sich auf gemeinsamen Standpunkt  
+- **Kompromiss:** Konfliktparteien treffen sich in der Mitte  
+- **Abstimmung:** Konfliktentscheidung durch Abstimmung  
+- **Variantenbildung:** Konfliktlösung durch Umsetzung mehrerer Varianten im System  
+- **Ober-Sticht-Unter:** Übergeordnete Instanz trifft Entscheidung  
+- **Weitere Techniken:** Consider-All-Facts, Plus-Minus-Interesting, Entscheidungsmatrix  
 
 ## 11b) Mit welchen Techniken würden Sie die selbstgewählten Beispiel-Konflikte aus der vorherigen Aufgabe lösen? Begründen Sie Ihre Entscheidung.  
-
+  - **Sachkonflikt:** Variantenbildung, da so mehrere Sachverhalte abgedeckt werden können, ohne dass eine Seite explizit auf ihre Anforderungen verzichten muss.  
+  - **Interessenkonflikt:** Kompromiss, da so beide Seiten Teile ihrer Anforderungen erfüllt haben können.  
+  - **Wertekonflikt:** Kompromiss oder Abstimmung, da diese Methoden erlauben beide Seiten teilweise zu befriedigen oder die Bedürfnisse einer Seite einfach überstimmt werden.  
+  - **Beziehungskonflikt:** Ober-Sticht-Unter, da man bei negativen zwischenmenschlichen Verhalten nie ganz sicher sein kann ob eine Einigung zwischen den Seiten nicht noch zu mehr persönlichen Problemen führt.  
+  - **Strukturkonflikt:** Ober-Sticht-Unter, da dies ohnehin die einzige Lösung ist auf die man sich bei einem Stukturkonflikt wirklich verlassen kann, wenn das Machtverhältnis bereits ein Problem darstellt.  
 
 ## 11c) Wieso ist es wichtig, die Konfliktauflösung zu dokumentieren?  
-
+Bereits gelöste Konflikte können so als Vorlagen für andere Konflikte verwendet werden. Außerdem ist eine klar verzeichnete Konfliktlösung eine einfache Methode Entwickler über erreichte Lösungen zu informieren.  
 
 ## 12a) Skizzieren Sie auf Basis der Fallstudie einen Prozess mittels der Prozesslandkarte des Interaction Room (z.B. „Terminvereinbarung erstellen“).  
-
+siehe KW18 Lösung_gincl.pdf  
 
 ## 12b) Stellen Sie außerdem den Systemkontext mittels der Integrationslandkarte des Interaction Room dar. Achtung: Die Umsysteme werden in der Fallstudie nur angedeutet! Überlegen Sie sich, welche Umsysteme in Frage kommen könnten.  
-
+siehe KW18 Lösung_gincl.pdf  
 
 ## 12c) Erstellen Sie auf Basis der Fallstudie eine Objektlandkarte.  
-
+siehe KW18 Lösung_gincl.pdf  
 
 ## 12d) Wählen Sie einen Werttreiber, einen Aufwandstreiber und einen Risikotreiber aus den Annotationen aus. Analysieren Sie die von Ihnen skizzierten Landkarten hinsichtlich dieser Aspekte und markieren Sie Elemente auf den Landkarten, an denen Sie Werttreiber, Aufwandstreiber oder Risikotreiber erkennen mit dem entsprechenden Symbol. Nummerieren Sie die Symbole durch und notieren Sie sich unter der entsprechenden Nummer eine Erläuterung zur Annotation.  
-
+siehe KW18 Lösung_gincl.pdf  
