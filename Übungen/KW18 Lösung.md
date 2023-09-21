@@ -30,22 +30,48 @@ User Stories werden aus den unterschiedlichen Perspektiven verschiedener Anwende
 3. Als Organisator eines Treffens muss ich die Verfügbarkeit potenzieller Teilnehmer herausfinden können, ohne diese bei denen einzeln anfragen zu müssen. ID:03 Prio:3 Diff:01 - Das System muss automatisch Zeitslots finden in welchen potenzielle Teilnehmer zeitlich verfügbar sind.  
 
 ## 5) Überlegen Sie sich zwei mögliche Epics für die Fallstudie und ordnen Sie ihre User Stories jeweils einem der Epics zu.  
-
+1. Epic: Koordinierung mit Teilnehmern: US1, US2  
+2. Epic: Automatische Zeitplanung: US3 
 
 ## 6a) Welche Quellen für Anforderungen gibt es? Welche Quellen könnten Sie für die Fallstudie nutzen?  
-
+1. Stakeholder: Nutzbar, WWS Inc.  
+2. Dokumente: Nicht existent, daher nicht nutzbar  
+3. Systeme im Betrieb: Nicht existent, daher nicht nutzbar  
 
 ## 6b) Nennen Sie für jede Quellenart mindestens zwei Vor- und Nachteile für deren Verwendung zur Anforderungsermittlung.  
-
+**1. Stakeholder:**  
+    \+ Beschreiben gewünschte Funktionen aus unterschiedlichen Perspektiven  
+    \+ Steuern das Projekt  
+    \- Potenziell mangelhaftes Fachwissen sorgt für Ungenauigkeiten  
+    \- Änderungswünsche im Projekt sehr wahrscheinlich  
+**2. Dokumente:**  
+    \+ Genaue Angaben, klare Informationen  
+    \+ Abbildung der gewünschten Prozesse  
+    \- Wissen im Fachbereich ist Vorraussetzung  
+    \- Unvollständigkeiten möglich  
+**3. Systeme im Betrieb:**  
+    \+ Demonstrieren einen bisherigen Ablauf und eine gewohnte Art der Interaktion  
+    \+ Eingliederung in Umgebung kann verbessert werden  
+    \- Können dazu verleiten sich zu sehr an Altlasten zu orientieren  
+    \-   
 
 ## 7a) Was sind Prototypen und wozu werden diese eingesetzt?  
-
+Prototypen sind Entwürfe mit denen Konzepte und Ideen veranschaulicht werden bevor diese vollständig ausentwickelt sind. Damit lassen sich recht früh Reaktionen und konkrete Vorstellungen für das fertige Produkt finden.  
 
 ## 7b) Welche beiden Arten von Prototypen unterscheidet man? Nennen Sie jeweils zwei Vor- und Nachteile für beide Typen.  
-
+**1. Analog**  
+\+ Intuitive Technik für Anfertigung, jeder kann Stift und Papier nutzen  
+\+ Gewinnung zusätzlicher funktionaler Anforderungen  
+\- Keine Weiterentwicklung möglich  
+\- Ggf. schwer verständlich wenn bei Erstellung auf mündliche Erklärung gesetzt wurde  
+**2. Digital**  
+\+ Mock-Ups zum ermitteln welches Erscheinungsbild die Anwendung am Ende haben soll  
+\+ Vom Mock-Up aus kann weiterentwickelt werden  
+\- Erstellung ist zeitlich und finanziell aufwändig  
+\-   
 
 ## 7c) Welche Art des Prototypings würden Sie für die Fallstudie verwenden und warum?  
-
+Ich würde horizontale Protoypen im Bereich der Oberfläche anfertigen, es eignen sich sowohl analoge als auch digitale Prototypen. Ich würde wohl einen digitalen Prototypen verwenden.
 
 ## 8a) Im Hinblick auf welche Aspekte sollten Anforderungen geprüft werden? Erläutern Sie diese Aspekte und überprüfen Sie Ihre Antwort auf Aufgabe 4.  
 
