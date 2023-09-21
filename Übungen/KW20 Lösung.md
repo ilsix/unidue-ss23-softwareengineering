@@ -1,9 +1,10 @@
 # Kapitel 4  
 ## 1) Unsicherheit ist ein inhärenter Bestandteil von Software-Prozessen. Erläutern Sie, in welchen Bereichen eines Softwareentwicklungsprozesses Unsicherheiten herrschen. Was kann man dagegen unternehmen?  
-
+Unsicherheiten sind unklare Informationen über das Projekt selbst so wie die ausführenden Organisationen und Personen. Grade wenn man externe Firmen beauftragt, kennt man deren Arbeitsweisen und Kompetenzen nicht ausgiebig kennt. Rahmenbedigungen wie Gesetze oder die Marktlage können ebenfalls nicht akkurat vorhergesagt werden.  
+Präzises Requirements Engineering kann helfen den Umfang des Projekts akkurat zu bestimmen. Eine regelmäßige Reevaluation der Umstände und Anforderungen seites der Stakeholder mindert das Risiko für Ungenauigkeiten.  
 
 ## 2) Warum sind Änderungen ein notwendiger Bestandteil des Softwareentwicklungsprozesses? Worin unterscheidet sich ein Softwareentwicklungsprozess von einem typischen Fertigungsprozess?  
-
+Änderungen sind praktisch notwendig um z.B. Fehler zu beheben oder um nicht funktionale Anfoderungen zu verbessern. Wenn sich Rahmenbedingungen ändern können ebenfalls Änderungen fällig werden. Der Unterschied zum Fertigungsprozess ist, dass die Anforderungen ans Produkt durchaus unklar sind und, dass sich verschiedene einsetzbare Versionen einer Software aus unterschiedlichen oder geänderten Anforderungen bilden können.  
 
 ## 3) Erläutern Sie, was man unter dem „Cone of Uncertainty“ versteht.  
 Cone of Uncertainty beschreibt die maximal erreichbare Genauigkeit von Schätzungen während des Projektverlaufs. Die Verengungen des Kegels passieren dabei nicht von alleine, sondern werden ausgelöst wenn bestimmte "Meilensteine" erreicht werden. Dazu zählen Produktdefinition, Anforderungen, UI-Designs, etc.  
@@ -31,10 +32,13 @@ Cone of Uncertainty beschreibt die maximal erreichbare Genauigkeit von Schätzun
 **Could-Have:** Die Seitenbesuche sind eher ein Nice-to-have, da diese wenig zur allgemeinen Quality-of-service beitragen.  
 
 ## 5) Ist es aus Ihrer Sicht vorteilhafter, Aufwände zu unter- oder zu überschätzen? Begründen Sie Ihre Aussage.  
-In Maßen ist es wohl besser einen Aufwand zu überschätzen. Besser haben als nicht haben, wenn es um Zeit geht.  
+In Maßen ist es wohl besser einen Aufwand zu überschätzen. Besser haben als nicht haben, wenn es um Zeit geht. Der Mehraufwand durch Unterschätzung fällt meist höher aus, wobei Überschätzen stark durch die verfügbare Arbeitszeit begrenzt ist.  
 
 ## 6) Es gibt typische Aufwände, die häufig übersehen werden. Diskutieren Sie, warum diese Aufwände in einem komplexen Softwareentwicklungsprojekt leicht übersehen werden können.  
-
+**Übersehen funktionaler Anforderungen:** Installationsroutinen, Datenmigration, Kontexthilfe  
+**Übersehen nicht-funktionaler Anforderungen:** Performance, Portability, Sicherheit, Anpassbarkeit  
+**Übersehene Entwicklungsaktivitäten:** Einarbeitung, Projektmanagement, Konfigurationsmanagement, Testdaten, Kundenkontakt, Dokumentation  
+**Übersehene andere Aktivitäten:** Urlaube, Krankheit, Schulung, Infrastruktur  
 
 ## 7) Was versteht man unter dem Ankereffekt? Illustrieren Sie diesen an einem selbstgewählten Beispiel.  
 Der Ankereffekt beschreibt wie Schätzwerte von bereits bekannten Werten oder Werteräumen beeinflusst werden. **Beispiel:** Fährt eine Suzuki Hayabusa schneller oder langsamer als 250km/h? -> Der Wert 250 ist der Anker an dem sich bei der Antwort sehr wahrscheinlich orientiert wird, egal ob man höher oder niedriger schätzt.  
