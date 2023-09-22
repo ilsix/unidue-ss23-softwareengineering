@@ -61,16 +61,16 @@ Model-View-Controller ist ein bekanntes Beispiel für Architekturmuster. Eine Nu
 
 
 ## 18) Was versteht man unter einer systemtechnischen Architektur? Worin bestehen die wesentlichen Unterschiede zu einer softwaretechnischen Architektur?  
-
+Eine Systemartchitektur bezieht sich auf Struktur und Organisation eines gesamten IT-Systems. Dazu zählen Hardware, Software und Netzwerkkomponenten. Mit ihr wird das System als Ganzes betrachtet. Eine softwaretechnische Architektur bezieht sich nur auf Struktur, Organisation und Komponenten einer einzelnen Softwareanwendung. Entscheidungen in der systemtechnischen Architektur finden auf einer hohen Ebene im Projekt statt und beinhalten z.B. Serverkonfigurationen oder Netzwerktopologien.  
 
 ## 19a) Wie kann eine Architektur beschrieben werden?  
-
+Architekturen werden mit einer Kombination aus grafischen und textuellen Elementen dargestellt. Diagramme wie Flussdiagramme oder UML-Diagramme können zur Veranschaulichung von Abläufen und Strukturen verwendet werden. Diese sollten durch Texte und Beschreibungen vervollständigt werden.  
 
 ## 19b) Was sind die Zwecke einer Architekturbeschreibung?  
-
+Eine Architekturbeschreibung kann in vielen Aspekten hilfreich in einem Projekt sein. Sie verbessert die Kommunikation verschiedener Akteure im Projekt, kann das Schreiben und Instanthalten von Dokumentationen vereinfachen oder Entscheidungsfindungen erleichtern. Und wie wir bereits wissen, sind die Aspekte eines Projekts eng miteinander verwoben, womit eine gut geführte Architekturbeschreibung auch Einfluss auf Budget- oder Risikomanagement haben kann.  
 
 ## 20) Arc42  
 
 
 ## 21) Erläutern Sie, was man unter einem Entwurfsmuster (Design Pattern) versteht und aus welchen Teilen es in der Regel besteht.  
-
+Ein Entwurfsmuster ist eine bewährte Lösung für ein bekanntes Problem oder einen bekannten Sachverhalt. Es ist meistens eine abstrakte Vorlage die auf Designprobleme in Softwareprojekten angewandt und angepasst werden kann. Häufig auftretende Probleme können so schnell und zuverlässig gelöst werden. Ein Muster hat einen Namen und beschreibt eine Problemstellung die es zu lösen gilt. Daraufhin wird die Lösung angegeben, in Form eines Diagramms, Pseudocode o.Ä. Neben verwandten Mustern können noch Vor- oder Nachteile gelistet werden die mit der Verwendung des Entwurfsmusters einhergehen.  
