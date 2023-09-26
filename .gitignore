@@ -1,3 +1,2 @@
-!*_gincl*
-
 *.pdf
+!*gincl.pdf*
