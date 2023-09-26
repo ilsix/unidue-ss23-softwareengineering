@@ -3,7 +3,7 @@ Todo            Done			Task
 				KW16
 				KW17
 				KW18
-		KW19					 7 , 8 , 9
+				KW19
 				KW20
 		KW21					 7
 		KW22					 9 ,17, 20
