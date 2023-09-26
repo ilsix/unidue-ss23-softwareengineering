@@ -2,7 +2,7 @@ Todo            Done			Task
 				KW15
 				KW16
 				KW17
-		KW18					12a,12b,12c,12d
+				KW18
 		KW19					 7 , 8 , 9
 				KW20
 		KW21					 7
