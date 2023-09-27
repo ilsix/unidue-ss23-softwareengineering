@@ -28,6 +28,15 @@ siehe KW23 Lösung_gincl.pdf
 
 ## 18b) Java Testfälle für die Zweigüberdeckung:  
 siehe KW23 Lösung_gincl.pdf  
+TestfallID | A | B | C
+-----------|---|---|---
+TF1        | 6 | 5 |  9
+TF2        | 5 | 9 | 10
+TF3        | 4 | 4 | 21
+
+- **TF1:** Parameter A darf nicht größer als 5 sein, da sonst das if() nicht auslöst
+- **TF2:** Parameter C darf nicht größer als 10 sein, da sonst das if nicht auslöst
+- **TF3:** Alle Parameter sind ausserhalb des Wertebereichs, das if() löst nicht aus
 
 ## 19a)  Bilden Sie unter Verwendung der in der Vorlesung angegebenen Regeln gültige und ungültige Äquivalenzklassen. Tragen Sie die Äquivalenzklassen in die folgende Tabelle ein und verwenden sie dabei eine sinnvolle Nummerierung.  
  Eingabebedingung | Gültige Äquivalenzklassen        | Ungültige Äquivalenzklassen
