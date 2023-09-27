@@ -30,10 +30,21 @@ siehe KW23 Lösung_gincl.pdf
 siehe KW23 Lösung_gincl.pdf  
 
 ## 19a)  Bilden Sie unter Verwendung der in der Vorlesung angegebenen Regeln gültige und ungültige Äquivalenzklassen. Tragen Sie die Äquivalenzklassen in die folgende Tabelle ein und verwenden sie dabei eine sinnvolle Nummerierung.  
-siehe KW23 Lösung_gincl.pdf  
+ Eingabebedingung | Gültige Äquivalenzklassen        | Ungültige Äquivalenzklassen
+------------------|----------------------------------|--------------------------------
+ Holzart          | 1.1 Eiche, 1.2 Buche, 1.3 Kiefer | 1.a nicht Eiche, Bucher, Kiefer
+ Länge            | 2. 100 <= X <= 500               | 2.a X < 100, 2.b X >  500
+ Anzahl           | 3. 1 <= X <= 9000                | 3.a X <   1, 3.b X > 9999
+ Auftragsnummer   | 4. Erstes Zeichen ist H          | 4.a Erstes Zeichen ist nicht H
 
 ## 19b) Bilden Sie unter Verwendung der in der Vorlesung angegebenen Regeln gültige und ungültige Äquivalenzklassen. Tragen Sie sie in die folgende Tabelle ein und verwenden sie dabei eine sinnvolle Nummerierung.  
-siehe KW23 Lösung_gincl.pdf  
+x              |  TF1            |  TF2  |   TF3  |  TF4  |  TF5  |  TF6  |  TF7  |  TF8  | TF9
+---------------|-----------------|-------|--------|-------|-------|-------|-------|-------|------
+Holzart        | Eiche           | Buche | Kiefer | Stahl | Buche | Buche | Buche | Buche | Buche
+Länge          |   200           |   300 |    300 |   300 |    50 |  1000 |   200 |   200 |   200
+Anzahl         |   100           |   200 |    100 |   100 |   100 |   100 |     0 | 50000 |   100
+Auftragsnummer |    H1           |    H1 |     H1 |    H1 |    H1 |    H1 |    H1 |    H1 |    J2
+getestete ÄQK  | 1.1, 2., 3., 4. | 1.2   | 1.3    | 1.a   | 2.a   | 2.b   | 3.a   | 2.b   | 4.a
 
 ## 20a) Erläutern Sie, was man unter dem Begriff Test-Driven Development versteht.  
 TDD basiert darauf, dass Tests geschrieben werden bevor die eigentliche Funktion existiert. Dadurch das Tests so schnell durchgeführt werden können, kann der Anwender früher in die Entwicklung einbezogen werden.  
