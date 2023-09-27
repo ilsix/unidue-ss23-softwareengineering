@@ -5,8 +5,8 @@ Todo            Done			Task
 				KW18
 				KW19
 				KW20
-		KW21					 7
-		KW22					 9 ,17, 20
+				KW21
+		KW22					 17, 20
 				KW23
 		KW25					18a,18b,19a,19b,24
 				KW26
