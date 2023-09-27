@@ -58,7 +58,7 @@ Architekturmuster sind abstrakter als Entwurfsmuster. Sie legen Strukturen, Schn
 Model-View-Controller ist ein bekanntes Beispiel für Architekturmuster. Eine Nutzereingabe wird an den Controller gegeben. Dieser bereitet das Modell, die Daten, auf, welche dann an den View gegeben werden um dem Nutzer angezeigt zu werden. Von da aus beginnt der Zyklus erneut.  
 
 ## 17) Planen Sie auf Basis der fachlichen Architektur aus Aufgabe 6 die softwaretechnischen Komponenten. Berücksichtigen Sie dabei, dass Nutzer sich registrieren und authentifizieren müssen. Planen Sie die Komponenten möglichst so, dass sie die Prinzipien geringe Kopplung, hohe Kohäsion, sowie Information Hiding berücksichtigen. Welche Architekturen können Sie auf Basis Ihres Komponenten-Entwurfs umsetzen? Wählen Sie eine Architektur begründet aus.  
-
+siehe KW22 Lösung_gincl.pdf
 
 ## 18) Was versteht man unter einer systemtechnischen Architektur? Worin bestehen die wesentlichen Unterschiede zu einer softwaretechnischen Architektur?  
 Eine Systemartchitektur bezieht sich auf Struktur und Organisation eines gesamten IT-Systems. Dazu zählen Hardware, Software und Netzwerkkomponenten. Mit ihr wird das System als Ganzes betrachtet. Eine softwaretechnische Architektur bezieht sich nur auf Struktur, Organisation und Komponenten einer einzelnen Softwareanwendung. Entscheidungen in der systemtechnischen Architektur finden auf einer hohen Ebene im Projekt statt und beinhalten z.B. Serverkonfigurationen oder Netzwerktopologien.  
@@ -69,8 +69,8 @@ Architekturen werden mit einer Kombination aus grafischen und textuellen Element
 ## 19b) Was sind die Zwecke einer Architekturbeschreibung?  
 Eine Architekturbeschreibung kann in vielen Aspekten hilfreich in einem Projekt sein. Sie verbessert die Kommunikation verschiedener Akteure im Projekt, kann das Schreiben und Instanthalten von Dokumentationen vereinfachen oder Entscheidungsfindungen erleichtern. Und wie wir bereits wissen, sind die Aspekte eines Projekts eng miteinander verwoben, womit eine gut geführte Architekturbeschreibung auch Einfluss auf Budget- oder Risikomanagement haben kann.  
 
-## 20) Arc42  
-
+## 20) Verschaffen Sie sich auf der Website https://arc42.org/overview/ einen Überblick über das Arc42-Template. Welche Aspekte haben Sie im Rahmen der Übungen bereits für das Fallbeispiel aus Übung 2 berücksichtigt? Laden Sie das auf der Webseite https://arc42.org/download verfügbare Template herunter und füllen Sie die entsprechenden Sektionen mit den von Ihnen erstellten Diagrammen und Texten. Sortieren Sie ebenfalls Ihre Lösung aus Aufgabe 20 ein. Welche Sichten fehlen noch? Ergänzen Sie eine dieser Sichten.  
+siehe KW22 Lösung_gincl.pdf  
 
 ## 21) Erläutern Sie, was man unter einem Entwurfsmuster (Design Pattern) versteht und aus welchen Teilen es in der Regel besteht.  
 Ein Entwurfsmuster ist eine bewährte Lösung für ein bekanntes Problem oder einen bekannten Sachverhalt. Es ist meistens eine abstrakte Vorlage die auf Designprobleme in Softwareprojekten angewandt und angepasst werden kann. Häufig auftretende Probleme können so schnell und zuverlässig gelöst werden. Ein Muster hat einen Namen und beschreibt eine Problemstellung die es zu lösen gilt. Daraufhin wird die Lösung angegeben, in Form eines Diagramms, Pseudocode o.Ä. Neben verwandten Mustern können noch Vor- oder Nachteile gelistet werden die mit der Verwendung des Entwurfsmusters einhergehen.  
