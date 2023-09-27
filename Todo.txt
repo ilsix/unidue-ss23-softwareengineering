@@ -8,6 +8,6 @@ Todo            Done			Task
 				KW21
 		KW22					 17, 20
 				KW23
-		KW25					 24
+				KW25
 				KW26
 				KW28
