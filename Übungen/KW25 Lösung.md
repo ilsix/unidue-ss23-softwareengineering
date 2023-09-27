@@ -80,4 +80,15 @@ Hauptbestandteil von TDD sind Modultests.
 Mock-Objekte simulieren Abhängigkeiten des zu testenden Moduls an andere Objekte oder stellen Testdaten bereit.  
 
 ## 24) Erstellen Sie in der Sprache Gherkin drei Szenarien für eine User Story, die Sie für die Fallstudie aus Übungsblatt 2 definiert haben.  
-
+**Feature:** Login  
+**Background:** Given open terminvereinbarung.com  
+**Scenario:** Login with user data  
+**Given:** enter username <username>  
+**And:** enter password <password>  
+**When:** user clicks "login"  
+**Then:** home screen is shown  
+**Examples:**  
+username    | password
+------------|------------
+mmustermann | mmusterpass
+ilsix       | xislixisli
